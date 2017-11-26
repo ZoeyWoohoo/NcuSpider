@@ -4,9 +4,9 @@
 
 ## Usage
 
-此项目使用 gradle 依赖管理，如果你使用 Intellij 编辑器，直接克隆/下载至本地，打开项目运行即可。:stuck_out_tongue:
+此项目基于 gradle，如果你使用 Intellij 编辑器，直接克隆/下载至本地，打开项目运行即可。:stuck_out_tongue:
 
-你也可以使用其他编辑器或者手动编译运行，本项目中所依赖引入的第三方库有：
+你也可以使用其他编辑器或者手动编译运行，本项目中所依赖的第三方库有：
 
 :+1: [okhttp](http://square.github.io/okhttp/) | :+1: [Jsoup](https://jsoup.org/)
 
@@ -14,19 +14,19 @@
 
 程序运行结果截图，程序运行后验证码图片会保存到本地，路径为项目根目录。
 
-> 验证码图片
+#### :point_right: 验证码图片
 
 ![captchaIamge](https://github.com/showzeng/NcuSpider/blob/master/image/captchaImage.png)
 
-> 运行效果
+#### :point_right: 运行效果
 
 ![consoleEffect](https://github.com/showzeng/NcuSpider/blob/master/image/consoleEffect.png)
 
-> 输入正确帐号密码后，输出结果部分截图
+#### :point_right: 输入正确帐号密码后，输出结果部分截图
 
 ![resultPart](https://github.com/showzeng/NcuSpider/blob/master/image/resultPart.png)
 
-> 完整输出如下
+#### :point_right: 完整输出如下
 
 ```text
 星期 1 :
@@ -156,7 +156,7 @@
 
 ## About
 
-如果你有任何问题，你可以提 issue 或者直接与我联系，欢迎交流 :p 。
+如果你有任何问题，你可以提 issue 或者直接与我联系，欢迎交流 :p
 
 ## License
 
